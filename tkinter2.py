@@ -1,6 +1,6 @@
-"""Premier exemple avec Tkinter.
+"""Derivé du premier exemple avec Tkinter.
 
-On crée une fenêtre simple qui souhaite la bienvenue à l'utilisateur.
+On crée une fenêtre simple.
 
 """
 
